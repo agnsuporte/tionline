@@ -72,7 +72,7 @@ export default class Remote extends Component {
                             return (
                                 <li key={conteudo.key}>
                                     <strong><h3>{conteudo.number}</h3>{conteudo.description} - [{conteudo.app}]</strong>
-                                    <span data-toggle="tooltip" data-placement="top" title={conteudo.password}>*****</span>
+                                    <span>*****</span>
                                 </li>
                             )
                         })}
