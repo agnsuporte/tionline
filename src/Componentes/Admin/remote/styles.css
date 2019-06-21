@@ -1,0 +1,86 @@
+#adm-remote-index {
+  margin: 50px auto 0;
+}
+
+#adm-remote-index header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#adm-remote-index header h1 {
+  font-size: 21px;
+  padding-left: 15px;
+  margin-left: 15px;
+  border-left: 1px solid #ddd;
+}
+
+#adm-remote-index header button svg {
+  margin-right: 10px;
+}
+
+#adm-remote-index header button:hover {
+  opacity: 0.9;
+}
+
+#adm-remote-index .upload {
+  border-radius: 4px;
+  padding: 30px;
+  text-align: center;
+  border: 1px dashed #ddd;
+  color: #999;
+  margin-top: 50px;
+  cursor: pointer;
+}
+
+#adm-remote-index ul {
+  margin: 35px 0;
+  list-style: none;
+}
+
+#adm-remote-index ul li {
+  margin-left: -35px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#adm-remote-index ul li + li {
+  padding-top: 2px;
+  margin-top: 2px;
+  margin-left: -35px;
+  border-top: 1px solid #eee;
+}
+
+#adm-remote-index ul li .fileInfo {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+#adm-remote-index ul li .fileInfo strong {
+  font-weight: normal;
+  font-size: 14px;
+  margin-left: 10px;
+  color: #333;
+}
+
+#adm-remote-index ul li span {
+  color: #999;
+  font-size: 13px;
+}
+
+.link {
+  margin: 5px;
+}
+
+#adm-remote-index .jumbotron{
+  padding: 15px;
+  margin-top: 3px;
+}
+
+#adm-remote-index .jumbotron h1{
+  padding: 3px;
+  margin-top: 1px;
+  font-size: 20pt;
+}

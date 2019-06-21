@@ -1,0 +1,24 @@
+#tab-hotel ul li {
+  margin-left: -35px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#tab-hotel ul li + li {
+  padding-top: 4px;
+  margin-top: 4px;
+  margin-left: -35px;
+  border-top: 1px solid #eee;
+}
+
+.jumbotron{
+  padding: 15px;
+  margin-top: 60px;
+}
+
+.jumbotron h1{
+  padding: 3px;
+  margin-top: 1px;
+  font-size: 20pt;
+}

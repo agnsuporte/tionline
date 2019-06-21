@@ -1,0 +1,464 @@
+{
+  "1" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "CONTROLE",
+    "ramal" : "8522"
+  },
+  "2" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "Departamento de Pessoal",
+    "ramal" : "8563 8519"
+  },
+  "3" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "Restaurante AQUARIUM",
+    "ramal" : "8514 8554"
+  },
+  "4" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "ALMOXARIFE",
+    "ramal" : "8523"
+  },
+  "5" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "COZINHA",
+    "ramal" : "8524 8537"
+  },
+  "6" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "COMPRAS",
+    "ramal" : "8535 8529"
+  },
+  "7" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "CPD (Gerência)",
+    "ramal" : "8501"
+  },
+  "8" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "CPD (TI)",
+    "ramal" : "8542"
+  },
+  "9" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "DEPARTAMENTO DE PESSOAL",
+    "ramal" : "8563 8519"
+  },
+  "10" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "EVENTOS",
+    "ramal" : "8528 8536 7355"
+  },
+  "11" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "FINANCEIRO  (Gerência)",
+    "ramal" : "8518"
+  },
+  "12" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "FINANCEIRO (Supervisor)",
+    "ramal" : "8551"
+  },
+  "13" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "GERENTE GERAL",
+    "ramal" : "8511"
+  },
+  "14" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "FINANCEIRO",
+    "ramal" : "8547 8549 8548 8560 8546"
+  },
+  "15" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "COMERCIAL",
+    "ramal" : "8544"
+  },
+  "16" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "GOVERNANÇA",
+    "ramal" : "8510 349"
+  },
+  "17" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "HOSPEDAGEM",
+    "ramal" : "8544"
+  },
+  "18" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "JANGADEIROS",
+    "ramal" : "8553"
+  },
+  "19" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "JURÍDICO",
+    "ramal" : "8507 8550"
+  },
+  "20" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "LAVANDERIA",
+    "ramal" : "8562"
+  },
+  "21" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "LOBBY BAR",
+    "ramal" : "8557"
+  },
+  "22" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "MANUTENÇÃO",
+    "ramal" : "8539 8540"
+  },
+  "23" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "MARKETING",
+    "ramal" : "8561"
+  },
+  "24" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "CONFEITARIA PADARIA",
+    "ramal" : "8541 8543"
+  },
+  "25" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "PORTARIA",
+    "ramal" : "8538"
+  },
+  "26" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "RECEPÇÃO",
+    "ramal" : "1/9 8502"
+  },
+  "27" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "RESERVAS",
+    "ramal" : "8504 8516 8520"
+  },
+  "28" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "REVENUE",
+    "ramal" : "8544"
+  },
+  "29" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "ROOM SERVICE",
+    "ramal" : "2"
+  },
+  "30" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "SALÃO  JACARANDÁ",
+    "ramal" : "8557"
+  },
+  "31" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "RH",
+    "ramal" : "8556"
+  },
+  "32" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "SECRETARIA",
+    "ramal" : "8505"
+  },
+  "33" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "SALÃO CEDRO",
+    "ramal" : "8527"
+  },
+  "34" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "SALA DE REUNIÃO",
+    "ramal" : "8558"
+  },
+  "35" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "TENDA",
+    "ramal" : "359"
+  },
+  "36" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "DIR. GERAL (Sr. Canindé)",
+    "ramal" : "8513"
+  },
+  "37" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "DIR. COMERCIAL (Sr. George)",
+    "ramal" : "8512"
+  },
+  "38" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "DIR. JURÍDICA (Dra. Grace)",
+    "ramal" : "8508"
+  },
+  "39" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "DIR. FINANCEIRA A PAGAR (Sra. Janeide)",
+    "ramal" : "8509"
+  },
+  "40" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "DIR. FINANCEIRA A RECEBER (Sra. Gihane)",
+    "ramal" : "457"
+  },
+  "41" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "SALA DE REUNIÃO",
+    "ramal" : "8558"
+  },
+  "42" : {
+    "cnpj_hotel" : 24367732000182,
+	"nome_hotel" : "PRAIAMAR NATAL",
+    "nome" : "DIR. OPERACIONAL (Sr. Andrew)",
+    "ramal" : "8506"
+  },
+  "43" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "CHILLER",
+    "ramal" : "#2269"
+  },
+  "44" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "CPD (TI)",
+    "ramal" : "#2262 #2230"
+  },
+  "45" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "CONTROLE",
+    "ramal" : "#2225"
+  },
+  "46" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "COZINHA",
+    "ramal" : "#2229"
+  },
+  "47" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "FITNESS CENTER",
+    "ramal" : "#2236"
+  },
+  "48" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "FOYER EVENTOS",
+    "ramal" : "#2266"
+  },
+  "49" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "FARMÁCIA",
+    "ramal" : "#2230"
+  },
+  "50" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "GOVERNANÇA",
+    "ramal" : "#2227"
+  },
+  "51" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "GERENTE GERAL",
+    "ramal" : "#2226"
+  },
+  "52" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "GER. RECEPÇÃO",
+    "ramal" : "#2233"
+  },
+  "53" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "HOSPEDAGEM",
+    "ramal" : "#2223"
+  },
+  "54" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "LOJA CONVENIÊNCIA",
+    "ramal" : "#2235"
+  },
+  "55" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "MANUTENÇÃO",
+    "ramal" : "#2240"
+  },
+  "56" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "RECEPÇÃO",
+    "ramal" : "#2221 #2222"
+  },
+  "57" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "RESTAURANTE",
+    "ramal" : "#2263"
+  },
+  "58" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "PORTARIA",
+    "ramal" : "#2231"
+  },
+  "59" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "SUBSOLO1",
+    "ramal" : "#2255"
+  },
+  "60" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "SUBSOLO2",
+    "ramal" : "#2256"
+  },
+  "61" : {
+    "cnpj_hotel" : 24367732000263,
+	"nome_hotel" : "PRAIAMAR EXPRESS",
+    "nome" : "SUBSTAÇÃO",
+    "ramal" : "#2239"
+  },
+  "62" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "ALMOXARIFADO",
+    "ramal" : "7375"
+  },
+  "63" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "CPD (TI)",
+    "ramal" : "7374"
+  },
+  "64" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "COZINHA CENTRAL",
+    "ramal" : "7368"
+  },
+  "65" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "CHEFE COZINHA",
+    "ramal" : "7377"
+  },
+  "66" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "CONTROLE",
+    "ramal" : "7338"
+  },
+  "67" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "DIRETORIA",
+    "ramal" : "7339"
+  },
+  "68" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "EVENTOS",
+    "ramal" : "7355 7344"
+  },
+  "69" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "GERENTE GERAL",
+    "ramal" : "7335"
+  },
+  "70" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "GERENTE DE RECEPÇÃO",
+    "ramal" : "7334"
+  },
+  "71" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "GOVERNANÇA",
+    "ramal" : "7337"
+  },
+  "72" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "HOSPEDAGEM",
+    "ramal" : "7345"
+  },
+  "73" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "LAVANDERIA",
+    "ramal" : "7380"
+  },
+  "74" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "MANUTENÇÃO",
+    "ramal" : "7331 7330"
+  },
+  "75" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "NUTRICIONISTA",
+    "ramal" : "7378 7343"
+  },
+  "76" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "PADARIA",
+    "ramal" : "7350"
+  },
+  "77" : {
+    "cnpj_hotel" : 17298641000177,
+	"nome_hotel" : "HOLIDAY INN NATAL",
+    "nome" : "RECEPÇÃO BALCÃO",
+    "ramal" : "7332 7333"
+  }
+}
